@@ -1,0 +1,27 @@
+{
+    "project": "Akuisisi Data Akomodasi Kintamani",
+    "course": "BIFP-243",
+    "collector": {
+        "name": "Ni Putu Vira Artika Dewi",
+        "nim": "2501010377"
+    },
+    "source": {
+        "name": "OpenStreetMap",
+        "endpoint": "https://overpass-api.de/api/interpreter",
+        "license": "ODbL",
+        "attribution": "© OpenStreetMap contributors"
+    },
+    "administrative_boundary": {
+        "district": "Kintamani",
+        "regency": "Bangli",
+        "admin_level": 6,
+        "relation_id": 20447233
+    },
+    "acquisition": {
+        "timestamp_utc": "2026-11-11T05:46:56.225180+00:00",
+        "raw_filename": "osm_akomodasi_kintamani_20261111_054656.json",
+        "total_elements": 32,
+        "md5_hash": "5fc80016327ec0e3ee776b679bb23238"
+    },
+    "query": "\n[out:json][timeout:120];\n\narea[\"boundary\"=\"administrative\"][\"admin_level\"=\"6\"][\"name\"=\"Kintamani\"]->.kec;\n\nnwr\n[\"tourism\"~\"^(hotel|guest_house|hostel|motel|apartment|chalet)$\"]\n(area.kec);\n\nout center tags;\n"
+}

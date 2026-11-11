@@ -1,0 +1,12 @@
+﻿kolom,tipe_data,contoh,deskripsi
+osm_type,string,way,Jenis objek OSM
+osm_id,integer,123456789,ID unik objek OSM
+nama,string,Batur View,Nama akomodasi
+jenis,string,guest_house,Kategori akomodasi
+lat,float,-8.27123,Lintang WGS84
+lon,float,115.37123,Bujur WGS84
+desa,string,Kintamani,Nama desa
+bintang,string,3,Klasifikasi bintang
+jumlah_kamar,string,10,Jumlah kamar
+website,string,https://contoh.id,Situs web
+url_osm,string,https://www.openstreetmap.org/way/123456789,Tautan objek OSM

@@ -1,0 +1,12 @@
+﻿kolom,jumlah_terisi,jumlah_kosong,persentase_kelengkapan
+osm_type,32,0,100.0
+osm_id,32,0,100.0
+nama,31,1,96.88
+jenis,32,0,100.0
+lat,32,0,100.0
+lon,32,0,100.0
+desa,0,32,0.0
+bintang,1,31,3.12
+jumlah_kamar,2,30,6.25
+website,2,30,6.25
+url_osm,32,0,100.0

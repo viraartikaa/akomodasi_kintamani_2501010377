@@ -1,0 +1,10 @@
+﻿prinsip_etika,status,bukti_pelaksanaan
+Minimisasi data,Diterapkan,"Tidak mengambil nomor telepon, email, dan media sosial pribadi."
+Atribusi OSM,Diterapkan,Mencantumkan © OpenStreetMap contributors.
+Lisensi ODbL,Diterapkan,Mencantumkan lisensi Open Database License.
+Kepatuhan API,Diterapkan,"User-Agent khusus, timeout, dan retry maksimal 4 kali."
+Larangan OTA,Diterapkan,"Tidak mengambil data dari Booking, Agoda, Traveloka, Airbnb, atau Tripadvisor."
+Larangan Google Maps,Diterapkan,Tidak menggunakan Google Maps sebagai sumber akuisisi.
+Validasi batas,Perlu pemeriksaan manual,Relasi administratif dicocokkan dengan batas resmi.
+Verifikasi sampel,Menunggu pemeriksaan,Sampel diperiksa melalui tautan OSM.
+Verifikasi BPS,Belum diverifikasi,Angka pembanding menunggu pemeriksaan tabel resmi.
