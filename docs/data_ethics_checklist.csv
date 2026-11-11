@@ -1,6 +1,0 @@
-prinsip_etika,status_kepatuhan,bukti_pelaksanaan
-API Limit & Respect,Penuh,Menggunakan User-Agent khusus dan delay retry backoff (maks 4x)
-Minimisasi Data,Penuh,Nomor telepon dan email pemilik dibuang/tidak diambil dalam script
-Lisensi & Atribusi,Penuh,Mencantumkan atribusi © OpenStreetMap contributors (ODbL)
-Sumber Terlarang,Penuh,Tidak melakukan scraping ke Traveloka Booking Agoda Airbnb atau Google Maps
-Kebenaran Data,Penuh,Raw data JSON tidak diubah dan disimpan secara eksplisit di data/raw/
